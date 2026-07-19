@@ -19,3 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 "# campus-security-frontend" 
 "# campus-security-frontend" 
 "# crime-reporting-system-frontend" 
+"# crime-reporting-system-frontend" 
